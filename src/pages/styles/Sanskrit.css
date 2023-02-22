@@ -1,0 +1,13 @@
+.sanskritCard {
+  margin-top: 40px;
+  background-color: #40826d;
+  color: white;
+}
+
+.sanskritCard .card-title {
+  font-size: 40px;
+}
+
+.sanskritCard .card-text {
+  font-size: 20px;
+}

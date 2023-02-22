@@ -1,0 +1,16 @@
+.navbar {
+  width: 100%;
+  font-weight: 300;
+}
+
+.navbar-dark {
+  background-color: #222 !important; /* Set the background color to dark */
+}
+
+.nav-link {
+  color: black;
+}
+/* 
+.navbar-inner {
+  background: transparent;
+} */

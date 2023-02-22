@@ -1,0 +1,24 @@
+.headerBox {
+  width: 100%;
+}
+
+/* Title Center */
+
+.inner .row {
+  display: flex;
+  min-height: 100vh;
+  align-items: center;
+  justify-content: left;
+}
+
+.inner h1 {
+  font-size: 70px;
+  margin-bottom: 20px;
+  color: green;
+}
+
+.inner h1 span {
+  color: black;
+}
+
+/*Title Color */

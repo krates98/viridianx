@@ -1,0 +1,15 @@
+.slidefive {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  color: transparent;
+  margin-bottom: 50px;
+  margin-top: 50px;
+}
+
+.slidefive h1 {
+  font-size: 40px;
+  background-image: linear-gradient(to left, #b700ff, #bb77f3);
+  color: transparent;
+  background-clip: text;
+}

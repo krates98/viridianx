@@ -1,0 +1,43 @@
+.background {
+  background-color: #eff0ec;
+  font-family: sans-serif;
+  padding: 20px;
+}
+
+.visionTitle {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  margin: 20px 0;
+  color: transparent;
+}
+
+.visionTitle h1 {
+  font-size: 40px;
+  background-image: linear-gradient(to left, #b700ff, #bb77f3);
+  color: transparent;
+  background-clip: text;
+}
+
+.card {
+  border: 0;
+  background-color: #eff0ec;
+}
+
+.projectside {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.projectside h4 {
+  margin-top: 40px;
+  text-align: center;
+}
+
+.projectside p {
+  margin-top: 20px;
+  text-align: center;
+  letter-spacing: 1px;
+}
